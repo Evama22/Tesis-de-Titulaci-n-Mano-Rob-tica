@@ -1,2 +1,0 @@
-# Cuauhtli
-Página web Cuauhtli 
